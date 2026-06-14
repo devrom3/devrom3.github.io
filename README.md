@@ -1,4 +1,5 @@
 # GEOG 853 Assignment 3 Website: Devon Romero
+
 # Welcome to my Web Mapping Portfolio!
 Hi, I'm Devon.
 This is a very basic first page for my website, which I will be building as part of the GIS course.
